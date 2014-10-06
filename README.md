@@ -2,7 +2,7 @@
 
 This is a guide explaning how to integrate your mobile app with Click Jogos Single Sign-on.
 
-## Android
+---
 
 Create a webview with javascript enabled
 
