@@ -1,8 +1,4 @@
-# Click Jogos SSO Mobile Integration
-
-This is a guide explaning how to integrate your mobile app with Click Jogos Single Sign-on.
-
----
+## Click Jogos Single Sign-on Android Example
 
 Create a webview with javascript enabled
 
